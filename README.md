@@ -1,2 +1,2 @@
 # Imgur
-An repository for storing pictures using PicGo
+An repository for storing pictures using PicGo.
